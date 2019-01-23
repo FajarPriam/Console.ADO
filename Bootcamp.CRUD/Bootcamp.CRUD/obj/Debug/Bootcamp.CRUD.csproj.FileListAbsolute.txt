@@ -1,0 +1,13 @@
+D:\Bootcamp MII\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\Bootcamp.CRUD.exe.config
+D:\Bootcamp MII\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.csprojResolveAssemblyReference.cache
+D:\Bootcamp MII\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\Bootcamp.CRUD.exe
+D:\Bootcamp MII\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\Bootcamp.CRUD.pdb
+D:\Bootcamp MII\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\EntityFramework.dll
+D:\Bootcamp MII\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bootcamp MII\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\EntityFramework.xml
+D:\Bootcamp MII\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bootcamp MII\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.exe
+D:\Bootcamp MII\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.pdb
+D:\Bootcamp MII\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.Migrations.addingFirstMigrations.resources
+D:\Bootcamp MII\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.csproj.GenerateResource.Cache
+D:\Bootcamp MII\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.Migrations.addingStatusDelete.resources
