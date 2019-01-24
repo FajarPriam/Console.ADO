@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7B466935-2A04-413E-8065-8D712DF0A8DE}</ProjectGuid>
+    <ProjectGuid>{C1448FE4-9AC7-4DF8-B6AE-D22341865FF1}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Bootcamp.CRUD</RootNamespace>
@@ -53,32 +53,26 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Context\MyContext.cs" />
+    <Compile Include="Controller\ItemsController.cs" />
+    <Compile Include="Controller\SuppliersController.cs" />
     <Compile Include="Core\BaseModel.cs" />
-    <Compile Include="Migrations\201901231344177_addingFirstMigrations.cs" />
-    <Compile Include="Migrations\201901231344177_addingFirstMigrations.Designer.cs">
-      <DependentUpon>201901231344177_addingFirstMigrations.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201901231441042_addingStatusDelete.cs" />
-    <Compile Include="Migrations\201901231441042_addingStatusDelete.Designer.cs">
-      <DependentUpon>201901231441042_addingStatusDelete.cs</DependentUpon>
+    <Compile Include="Migrations\201901240300367_addingvirtualsupplier.cs" />
+    <Compile Include="Migrations\201901240300367_addingvirtualsupplier.Designer.cs">
+      <DependentUpon>201901240300367_addingvirtualsupplier.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Model\Item.cs" />
     <Compile Include="Model\Supplier.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config">
-      <SubType>Designer</SubType>
-    </None>
+    <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201901231344177_addingFirstMigrations.resx">
-      <DependentUpon>201901231344177_addingFirstMigrations.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201901231441042_addingStatusDelete.resx">
-      <DependentUpon>201901231441042_addingStatusDelete.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201901240300367_addingvirtualsupplier.resx">
+      <DependentUpon>201901240300367_addingvirtualsupplier.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

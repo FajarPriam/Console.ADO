@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bootcamp.CRUD", "Bootcamp.CRUD\Bootcamp.CRUD.csproj", "{7B466935-2A04-413E-8065-8D712DF0A8DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bootcamp.CRUD", "Bootcamp.CRUD\Bootcamp.CRUD.csproj", "{C1448FE4-9AC7-4DF8-B6AE-D22341865FF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7B466935-2A04-413E-8065-8D712DF0A8DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7B466935-2A04-413E-8065-8D712DF0A8DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7B466935-2A04-413E-8065-8D712DF0A8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7B466935-2A04-413E-8065-8D712DF0A8DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1448FE4-9AC7-4DF8-B6AE-D22341865FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1448FE4-9AC7-4DF8-B6AE-D22341865FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1448FE4-9AC7-4DF8-B6AE-D22341865FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1448FE4-9AC7-4DF8-B6AE-D22341865FF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,13 +1,29 @@
-D:\Bootcamp MII\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\Bootcamp.CRUD.exe.config
-D:\Bootcamp MII\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.csprojResolveAssemblyReference.cache
-D:\Bootcamp MII\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\Bootcamp.CRUD.exe
-D:\Bootcamp MII\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\Bootcamp.CRUD.pdb
-D:\Bootcamp MII\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\EntityFramework.dll
-D:\Bootcamp MII\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\EntityFramework.SqlServer.dll
-D:\Bootcamp MII\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\EntityFramework.xml
-D:\Bootcamp MII\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\EntityFramework.SqlServer.xml
-D:\Bootcamp MII\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.exe
-D:\Bootcamp MII\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.pdb
-D:\Bootcamp MII\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.Migrations.addingFirstMigrations.resources
-D:\Bootcamp MII\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.csproj.GenerateResource.Cache
-D:\Bootcamp MII\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.Migrations.addingStatusDelete.resources
+c:\users\naufalaj\documents\visual studio 2015\Projects\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\Bootcamp.CRUD.exe.config
+c:\users\naufalaj\documents\visual studio 2015\Projects\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\Bootcamp.CRUD.exe
+c:\users\naufalaj\documents\visual studio 2015\Projects\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\Bootcamp.CRUD.pdb
+c:\users\naufalaj\documents\visual studio 2015\Projects\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\EntityFramework.dll
+c:\users\naufalaj\documents\visual studio 2015\Projects\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\naufalaj\documents\visual studio 2015\Projects\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\EntityFramework.xml
+c:\users\naufalaj\documents\visual studio 2015\Projects\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\naufalaj\documents\visual studio 2015\Projects\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.csprojResolveAssemblyReference.cache
+c:\users\naufalaj\documents\visual studio 2015\Projects\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.exe
+c:\users\naufalaj\documents\visual studio 2015\Projects\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.pdb
+c:\users\naufalaj\documents\visual studio 2015\Projects\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.Migrations.addingModelFirst.resources
+c:\users\naufalaj\documents\visual studio 2015\Projects\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.csproj.GenerateResource.Cache
+c:\users\naufalaj\documents\visual studio 2015\Projects\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.Migrations.addingStatusDelete.resources
+C:\Users\NaufalAj\Documents\Visual Studio 2015\Projects\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.Migrations.addingModelItem.resources
+D:\Bootcamp MII\Github\Refrensi\ConsoleADO\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\Bootcamp.CRUD.exe.config
+D:\Bootcamp MII\Github\Refrensi\ConsoleADO\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.exe
+D:\Bootcamp MII\Github\Refrensi\ConsoleADO\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.pdb
+D:\Bootcamp MII\Github\Refrensi\ConsoleADO\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\Bootcamp.CRUD.exe
+D:\Bootcamp MII\Github\Refrensi\ConsoleADO\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\Bootcamp.CRUD.pdb
+D:\Bootcamp MII\Github\Refrensi\ConsoleADO\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\EntityFramework.dll
+D:\Bootcamp MII\Github\Refrensi\ConsoleADO\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bootcamp MII\Github\Refrensi\ConsoleADO\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\EntityFramework.xml
+D:\Bootcamp MII\Github\Refrensi\ConsoleADO\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bootcamp MII\Github\Refrensi\ConsoleADO\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.csprojResolveAssemblyReference.cache
+D:\Bootcamp MII\Github\Refrensi\ConsoleADO\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.Migrations.addingvirtualsupplier.resources
+D:\Bootcamp MII\Github\Refrensi\ConsoleADO\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.csproj.GenerateResource.Cache
+D:\Bootcamp MII\Github\Console.ADO\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\Bootcamp.CRUD.exe.config
+D:\Bootcamp MII\Github\Console.ADO\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.exe
+D:\Bootcamp MII\Github\Console.ADO\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.pdb
