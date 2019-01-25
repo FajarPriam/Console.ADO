@@ -24,6 +24,10 @@ D:\Bootcamp MII\Github\Refrensi\ConsoleADO\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug
 D:\Bootcamp MII\Github\Refrensi\ConsoleADO\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.csprojResolveAssemblyReference.cache
 D:\Bootcamp MII\Github\Refrensi\ConsoleADO\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.Migrations.addingvirtualsupplier.resources
 D:\Bootcamp MII\Github\Refrensi\ConsoleADO\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.csproj.GenerateResource.Cache
+D:\Bootcamp MII\Github\Refrensi\ConsoleADO\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.Migrations.addingTransactionsItems.resources
+D:\Bootcamp MII\Github\Refrensi\ConsoleADO\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.Migrations.checkingerror.resources
+D:\Bootcamp MII\Github\Refrensi\ConsoleADO\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.Migrations.addingtrigger.resources
+D:\Bootcamp MII\Github\Refrensi\ConsoleADO\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.Migrations.addingtrigger2.resources
 D:\Bootcamp MII\Github\Console.ADO\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\Bootcamp.CRUD.exe.config
 D:\Bootcamp MII\Github\Console.ADO\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.exe
 D:\Bootcamp MII\Github\Console.ADO\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.pdb

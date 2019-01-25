@@ -55,24 +55,57 @@
     <Compile Include="Context\MyContext.cs" />
     <Compile Include="Controller\ItemsController.cs" />
     <Compile Include="Controller\SuppliersController.cs" />
+    <Compile Include="Controller\TransactionsController.cs" />
     <Compile Include="Core\BaseModel.cs" />
     <Compile Include="Migrations\201901240300367_addingvirtualsupplier.cs" />
     <Compile Include="Migrations\201901240300367_addingvirtualsupplier.Designer.cs">
       <DependentUpon>201901240300367_addingvirtualsupplier.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201901240442450_addingTransactionsItems.cs" />
+    <Compile Include="Migrations\201901240442450_addingTransactionsItems.Designer.cs">
+      <DependentUpon>201901240442450_addingTransactionsItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201901240933459_checkingerror.cs" />
+    <Compile Include="Migrations\201901240933459_checkingerror.Designer.cs">
+      <DependentUpon>201901240933459_checkingerror.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201901241159286_addingtrigger.cs" />
+    <Compile Include="Migrations\201901241159286_addingtrigger.Designer.cs">
+      <DependentUpon>201901241159286_addingtrigger.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201901241230354_addingtrigger2.cs" />
+    <Compile Include="Migrations\201901241230354_addingtrigger2.Designer.cs">
+      <DependentUpon>201901241230354_addingtrigger2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Model\Item.cs" />
     <Compile Include="Model\Supplier.cs" />
+    <Compile Include="Model\Transaction.cs" />
+    <Compile Include="Model\TransactionItem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201901240300367_addingvirtualsupplier.resx">
       <DependentUpon>201901240300367_addingvirtualsupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201901240442450_addingTransactionsItems.resx">
+      <DependentUpon>201901240442450_addingTransactionsItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201901240933459_checkingerror.resx">
+      <DependentUpon>201901240933459_checkingerror.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201901241159286_addingtrigger.resx">
+      <DependentUpon>201901241159286_addingtrigger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201901241230354_addingtrigger2.resx">
+      <DependentUpon>201901241230354_addingtrigger2.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
